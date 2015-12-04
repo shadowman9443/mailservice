@@ -1,0 +1,1 @@
+A mailer Application for a company that can be used by the employees of the company only. Each user can send, receive and delete after login.
